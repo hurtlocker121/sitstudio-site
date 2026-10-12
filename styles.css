@@ -37,7 +37,7 @@ a:hover {
 
 header {
   border-bottom: 1px solid var(--border);
-  background: rgba(11, 15, 13, 0.96);
+  background: var(--bg);
   position: sticky;
   top: 0;
   z-index: 10;
